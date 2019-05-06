@@ -2,7 +2,7 @@
   <component name="zato">
     <servers>
       <list>
-        <server name="LIB_staging" password="liberty@ecosi#2019" url="http://zato.prj.liberty-and-co.com:11223" username="ide_publisher" />
+        <server default="true" name="LIB_staging" password="liberty@ecosi#2019" url="http://zato.prj.liberty-and-co.com:11223" username="ide_publisher" />
       </list>
     </servers>
   </component>
