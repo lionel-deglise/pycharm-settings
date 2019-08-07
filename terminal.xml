@@ -1,0 +1,6 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="myShellPath" value="C:\tools\cmder\pycharm.bat" />
+    <option name="myTabName" value="Cmder" />
+  </component>
+</application>
